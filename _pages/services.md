@@ -20,7 +20,7 @@ I provide a mobile service, which means <b>I come to you</b> with my equipment. 
     <li>Personal Training</li>
 </ul>
 
-<p>For more information about which services would be best for you, check out [The Difference Between Services]({{ site.baseurl }}/DifferentServices/)</p>
+For more information about which services would be best for you, check out this [blogpost]({{ site.baseurl }}/DifferentServices/)
 
 <p>For booking inquiries, please send me an <a href="mailto:freethefoot.hamilton@gmail.com">email</a>.</p>
 
