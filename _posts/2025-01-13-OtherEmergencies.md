@@ -10,7 +10,7 @@ header:
 
 The "Other Emergency" complex helps with immediate issues that are NOT health related - so that I can keep hiking safely OR to tide me over until I can exit the trail. 
 
-<img src="/assets/images/Firstaid.png" alt="Other Emergencies Complex">
+<img src="{{ site.baseurl }}/assets/images/Firstaid.png" alt="Other Emergencies Complex">
 
 <h2 style="color: green;">Equipment</h2>
 
@@ -46,9 +46,9 @@ And as always, for more complex emergencies I check my location often and bring 
 <h2 style="color: green;">Tips</h2>
 
 Of all these items, the duct tape was the most handy. It reinforced my pack and my Vibrams when I wore them out! 
-<img src="/assets/images/Thru-hiking-ducttape.png" alt="Duct Tape on my Pack">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-ducttape.png" alt="Duct Tape on my Pack">
 
 The next most useful items were the plastic bags; I wore them like socks to keep my feet dry in the wettest parts of the trail. I'd recommend also investing in excellent quality matches and adding to this water purification tablets.
 
-<img src="/assets/images/Thru-hiking-plasticbags.png" style="width: 40%; height: auto" alt="Plastic Bags in my Boots">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-plasticbags.png" style="width: 40%; height: auto" alt="Plastic Bags in my Boots">
 

@@ -18,7 +18,7 @@ The photo below describes what I *thought* 3 weeks of food should look like when
 
 My overpacking was caused by a few things: I didn't eat as much packed food because I stopped at some restaurants along the way and I overestimated how much of each dry ingredient I should bring to make a single meal. But better to have too much than too little! 
 
-<img src="/assets/images/Thru-hiking-food-prep.png" style="width: 50%; height: auto;" alt="Prep">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-prep.png" style="width: 50%; height: auto;" alt="Prep">
 
 <h2 style="color: green;">2. Different Hike Distances</h2>
 
@@ -26,7 +26,7 @@ It's different, preparing food for a long vs short hike. For example, hiking a f
 
 The rest of my food can be shipped to spots along the trail. But planning this out is the most challenging logistical piece of a thru-hike: Will there be an outpost every 4-5 days? When should I complete my food prep so it all ships in time? What happens if my package is lost? How much will postage cost? Will I pack enough food? Are there grocery stores not far from the trail? For many trails, these questions have been answered by previous hikers and lists of shipping destinations are often available online with a little digging! 
 
-<img src="/assets/images/Thru-hiking-food-post.png" style="width: 30%; height: auto;" alt="Post Office">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-post.png" style="width: 30%; height: auto;" alt="Post Office">
 
 <h2 style="color: green;">3. Packing Based on Calories & Macronutrients</h2> 
 
@@ -53,7 +53,7 @@ So if calories and macros are the guide, why should I weigh food at all? For two
 
 I pack dehydrated food and trailmix in reusable zipper bags that weigh 0 - 1g. This gives me room for my favourite trail lunch: canned fish. The can is heavy and takes up a lot of space in my garbage bag, but it's worth it!  
 
-<img src="/assets/images/Thru-hiking-food-fish.png" style="width: 50%; height: auto;" alt="Fish">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-fish.png" style="width: 50%; height: auto;" alt="Fish">
 
 <h2 style="color: green;">5. The Best Items for Dehydrated Meals</h2> 
 
@@ -61,7 +61,7 @@ I pack dehydrated food and trailmix in reusable zipper bags that weigh 0 - 1g. T
 
 <p>I'm still experimenting, but so far, my favourite rehydrated foods are egg noodle pasta, peas, and sweet potato. I add some white beans for extra protein. I also dehydrated pasta sauce and excellent quality ground beef (or trail "pepples" because of how it dries). And I've experimented with fruit leather - this is what it looks like before it's dehydrated!</p> 
 
-<img src="/assets/images/Thru-hiking-food-fruitleather.png" style="width: 50%; height: auto;" alt="Fruit Leather">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-fruitleather.png" style="width: 50%; height: auto;" alt="Fruit Leather">
 
 <p>To keep these foods lasting ages, I avoid fat so that, especially the meat, doesn't go rancid. But fat is soooo tasty! So for the sake of tasty food, I pack cheddar cheese and lightweight spices: sumac, sea salt, and pepper. And sometimes powdered cheesy sauce and gravy but these are very salty.</p>
 
@@ -85,7 +85,7 @@ Here are some of the snacks I pack:
 
 <p>Some other considerations are the filtration and electrolytes: I make sure I have a water filter, the means to boil water, and water purification tablets just in case. That's three ways to filter! And I pack electrolytes because, especially for challenging hikes, rehydrating with water isn't enough to fend off dehydration.</p> 
 
-<img src="/assets/images/Thru-hiking-waterrefill.png" style="width: 50%; height: auto;" alt="Water Refill">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-waterrefill.png" style="width: 50%; height: auto;" alt="Water Refill">
 
 <h2 style="color: green;">8. Packing Essential Vitamins & Minerals</h2>
 
@@ -99,8 +99,8 @@ For most of the year I live and work indoors. So living on a trail for 3-8 weeks
 
 <p>This appetite change is accompanied by noticeable changes in body composition. By Week 2 of near constant walking up and downhill, core stabilization (of my pack that swings back and forth as I walk), and dietary changes, I'm much leaner. You can see it here:</p>
 
-<img src="/assets/images/Thru-hiking-food-before.png" style="width: 30%; height: auto;" alt="Before">
-<img src="/assets/images/Thru-hiking-food-after.png" style="width: 30%; height: auto;" alt="After">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-before.png" style="width: 30%; height: auto;" alt="Before">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-after.png" style="width: 30%; height: auto;" alt="After">
 
 <h2 style="color: green;">10. Finally, The Importance of Treats</h2>
 

@@ -32,5 +32,5 @@ One thing I learned was how important it is to have a sturdy, smartly designed f
 
 So I went out and selected my frontpack with greater care. I invested in a sturdy fanny pack and it was a game changer! It had several easily accessible pockets, elastic cords, and not one but two water bottle holders. This made accessing my water, maps, phone, chapstick, and more much easier. And because it was a fanny pack, it's secured around my hips instead of my chest, so I feel more ergonomic. 
 
-<img src="/assets/images/Thru-hiking-clothing2.png" style="width: 40%; height: auto;" alt="Torn frontpack">
-<img src="/assets/images/Thru-hiking-clothing3.png" style="width: 40%; height: auto;" alt="New frontpack">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-clothing2.png" style="width: 40%; height: auto;" alt="Torn frontpack">
+<img src="{{ site.baseurl }}/assets/images/Thru-hiking-clothing3.png" style="width: 40%; height: auto;" alt="New frontpack">
