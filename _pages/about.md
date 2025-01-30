@@ -30,7 +30,7 @@ This has been my pattern many times:
 
 Over time, I've come to practice, integrate, and teach the many lessons I've learned. 
 
-Have a look at the [Services]({{ site.baseurl }}/services/) that I offer to help you meet your own fitness and wellness goals! 
+Have a look at the [Services]({{ site.baseurl }}/DifferentServices/) that I offer to help you meet your own fitness and wellness goals! 
 
  
 
