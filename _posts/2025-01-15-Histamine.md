@@ -1,6 +1,6 @@
 ---
 title: "Histamines"
-categories: Home_Remedies
+categories: Nutrition
 permalink: /Histamines/
 classes: wide
 header:

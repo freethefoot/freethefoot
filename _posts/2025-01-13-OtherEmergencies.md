@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-The "Other Emergency" complex helps with immediate issues that are NOT health related - so that I can keep hiking safely OR to tide me over until I can exit the trail. 
+This complex helps with immediate issues that are NOT health related - so I can keep hiking safely OR to tide me over until I can exit the trail. 
 
 <img src="{{ site.baseurl }}/assets/images/Firstaid.png" alt="Other Emergencies Complex">
 
