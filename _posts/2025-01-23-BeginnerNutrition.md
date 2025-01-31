@@ -1,5 +1,5 @@
 ---
-title: "General Nutrition Tips for Beginners"
+title: "Nutrition Tips for Health & Wellness"
 categories: Nutrition
 permalink: /BeginnerNutrition/
 classes: wide
