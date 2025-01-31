@@ -4,15 +4,18 @@ title: "About Me"
 layout: single
 author_profile: true
 classes: wide
+gallery3:
+  - image_path: /assets/images/6.About1.png
+    alt: "Services-Image 1"
+  - image_path: /assets/images/7.About2.png
+    alt: "Services-Image 2"
 ---
 
 My name is Renata, and I'm a <a href="https://ncsf.org/">NCSF Certified Personal Trainer</a>, <a href="https://www.stretchtowin.com/page/what-is-fst">Fascia Stretch Therapist</a>, and an <a href="https://www.gymnasticsontario.ca/education/coach-ed/nccp-course-information/">NCCP-trained Adult Gymnastics Coach</a>. My advanced education in anatomy, nutrition, and fitness programming began in university, during my minor in Health Studies. And I have over a decade of experience as a movement student and educator.
 
-<img src="{{ site.baseurl }}/assets/images/6.About1.png" alt="Me and Plants">
+{% include gallery id="gallery3" class="full" %}
 
 I specialize in training foundational movements. And I enjoy practicing gentle, restorative therapies that are fascinating in how they can aid in burnout recovery and improve self-esteem. I truly believe these are the first steps toward reaching - and maintaining - more ambitious wellness and fitness goals! 
-
-<img src="{{ site.baseurl }}/assets/images/7.About2.png" alt="Relaxing Area">
 
 Even though I'm a passionate mover, I can relate to the fact that life often gets in the way of our feelings of wellness and physical fitness. 
 
