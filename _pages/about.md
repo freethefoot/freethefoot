@@ -15,7 +15,7 @@ My name is Renata, and I'm a <a href="https://ncsf.org/">NCSF Certified Personal
 
 {% include gallery id="gallery3" class="full" %}
 
-I specialize in training foundational movements. And I enjoy practicing gentle, restorative therapies that are fascinating in how they can aid in burnout recovery and improve self-esteem. I truly believe these are the first steps toward reaching - and maintaining - more ambitious wellness and fitness goals! 
+I specialize in training foundational movements because I truly believe these are the first steps toward reaching and MAINTAINING fitness and wellness goals. I also enjoy practicing gentle, restorative therapies, such as FST, which assists in achieving fitness goals. These therapies not only prepare and heal the body, but also can help reduce burnout, which can be a major goal barrier.   
 
 Even though I'm a passionate mover, I can relate to the fact that life often gets in the way of our feelings of wellness and physical fitness. 
 
