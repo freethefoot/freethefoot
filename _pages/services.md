@@ -2,6 +2,7 @@
 permalink: /services/
 title: "Services"
 layout: single
+classes: wide
 author_profile: true
 gallery3:
   - image_path: /assets/images/2.Services-Ball.png
@@ -24,7 +25,7 @@ These are just some of the services that we provide:
     <li>Consultation and validation on equipment innovation</li>
 </ul>
 
-For more information please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>.</p>
+For more information please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
 
 
 {% include gallery id="gallery3" class="full" %}
