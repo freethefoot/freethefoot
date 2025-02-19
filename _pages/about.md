@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About FreeTheFoot"
 layout: single
 author_profile: true
 classes: wide
@@ -13,22 +13,35 @@ gallery3:
 
 <h2 style="color: green;">Who We Are</h2>
 
-We are certified personal trainers, gymnastic coaches, fascial stretch therapists and more. Our advanced education in anatomy, nutrition, and fitness programming began early on and has only grown with time. Together, we have decades of experience as movement students - and educators. After years of observing clients and trends, we aim to address how so many health and wellness issues exist because their causes are deeply embedded in the fabric of Canadian institutions and social structures - but they are reversable. 
+<p>We are certified personal trainers, gymnastic coaches, fascial stretch therapists, environmentalists and more. Our advanced education in anatomy, nutrition, movement, and environmental advocacy began early on and has only grown with time. Together, we have decades of experience as students - and educators.</p> 
+
+<p>After years of observing clients and trends, we aim to address how so many health and wellness issues exist because their causes are deeply embedded in the fabric of Canadian institutions and social structures - but these causes are reversable.</p> 
+
+<p>In addition, to access clean air, clean freshwater, and immersion into nature - all of which are as important to our mission as movement - people must exit city centres. However, this is costly and difficult without a car. But it could be possible to do right within our urban centres with smarter design.  
 
 <h2 style="color: green;">Mission</h2>
 
-Our mission, or IDEA, is to:
+Our mission is to:
 <ul>
-  <li>Improve health, wellness, and happiness of Canadians.</li>
-  <li>Develop targeted processes and programs to address health and wellness issues.</li>
-  <li>Design urban landscapes that celebrate the natural landscape</li>
-  <li>Enforce anti-negligence by socializing plans for change amoung Canadian businesses and policy makers.</li>
-  <li>Advocate, with like-minded partners, for systemic health and wellness change of Canadian institutions.</li>
+  <li>Improve health, wellness, and happiness of all Canadians.</li>
+  <li>Improve access to restorative nature, regardless of individual socioeconomic status.</li>
+</ul>
+
+We will achieve our mission by: 
+<ul>
+  <li>Developing targeted processes and programs to address health and wellness issues.</li>
+  <li>Educating Canadian business and policy-makers to promote anti-negligence of employees and people.</li>
+  <li>Liberating the natural landscape in urban centres.</li>
+  <li>Advocating, with like-minded partners, for systemic change.</li>
 </ul>
 
 <h2 style="color: green;">Vision</h2>
 
-Our vision is a physically, mentally, and emotionally resilient Canadian population. We believe that our improved processes and programs will get Canadians part-way there. The other part is advocating for design changes of our cities, because this will create lasting, systemic and cultural change. Moreover, urban design that enables access to restorative natural landscapes for all Canadians is more equitable and less negligent than the current system which prohibits access to nature from all Canadians. We believe that conscious design of processes, programs, and urban landscapes is the necessary way of the future. 
+<p>Our vision is a physically, mentally, and emotionally resilient Canadian population. We believe that our improved processes and programs will get Canadians part-way there.</p> 
+
+<p>The other part is advocating for design changes of our cities. Enabling access to nature within our city centres would make restorative landscapes accessible for all Canadians, regardless of socioeconomic status. This is a more equitable and less negligent system than what we currently have.</p> 
+
+<p>We believe that conscious design of processes, programs, and urban landscapes is the necessary way of the future.</p> 
 
 <h2 style="color: green;">Values</h2>
 
