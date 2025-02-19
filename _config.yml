@@ -126,6 +126,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/people/Free-The-Foot/100084975505309/"
+    - label: "BuyMeACoffee"
+      icon: "fa-coffee"
+      url: 'https://buymeacoffee.com/wpenvllzih'
 
 # Site Footer
 footer:
