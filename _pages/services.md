@@ -11,18 +11,20 @@ gallery3:
 
 ---
 
-I provide a mobile service, which means <b>I come to you</b> with my equipment. These are the types of sessions you can book with me:  
+These are just some of the services that we provide:  
 
 <ul>
-    <li>Fascial Stretch Therapy</li>
-    <li>Foundational Gymnastics</li>
-    <li>Pilates</li>
-    <li>Personal Training</li>
+    <li>Projects to promote health and nature accessibility across different communities</li>
+    <li>Innovative health and wellness research methodologies, leveraging AI and digital technologies</li>
+    <li>Studies aiming to improve employer care, treatment protocols, team cohesion, and work culture</li>
+    <li>Programming designed to enhance service delivery and organizational efficiency</li>
+    <li>Knowledge translation, transfer, and implementation - from resesarch to findings to programming</li>
+    <li>Opportunities for public, private, and academic interdisciplinary collaboration</li>
+      <li>Movement and environmental mentorship</li> 
+    <li>Consultation and validation on equipment innovation</li>
 </ul>
 
-For more information about which services would be best for you, check out this [blogpost]({{ site.baseurl }}/DifferentServices/)
-
-<p>For booking inquiries, please send me an <a href="mailto:freethefoot.hamilton@gmail.com">email</a>.</p>
+For more information please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>.</p>
 
 
 {% include gallery id="gallery3" class="full" %}
