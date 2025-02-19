@@ -13,11 +13,15 @@ gallery3:
 
 <h2 style="color: green;">Who We Are</h2>
 
-<p>We are certified personal trainers, gymnastic coaches, fascial stretch therapists, environmentalists and more. Our advanced education in anatomy, nutrition, movement, and environmental advocacy began early on and has only grown with time. Together, we have decades of experience as students - and educators.</p> 
+<p>FreeTheFoot advocates for the blending of movement and nature for a happier body, community, and life.</p>
 
-<p>After years of observing clients and trends, we aim to address how so many health and wellness issues exist because their causes are deeply embedded in the fabric of Canadian institutions and social structures - but these causes are reversable.</p> 
+<p>We are certified personal trainers, gymnastic coaches, fascial stretch therapists, environmentalists and more. Our advanced education in anatomy, nutrition, movement, and environmental advocacy began early on in our lives and has only grown with time. Together, we have decades of experience as students - and educators.</p> 
 
-<p>In addition, to access clean air, clean freshwater, and immersion into nature - all of which are as important to our mission as movement - people must exit city centres. However, this is costly and difficult without a car. But it could be possible to do right within our urban centres with smarter design.  
+<h4 style="color: white;">Movement</h4>
+After years of observing clients and trends, we aim to address many (reversible) health and wellness issues. Their causes are often deeply embedded in the fabric of Canadian institutions and social structures. Ergonomic assessments help to an extent, but we take it further. 
+
+<h4 style="color: white;">Nature</h4>
+In addition, to access clean air, clean freshwater, and immersion into nature - all of which are as important to our mission as movement - people must exit city centres. However, this is costly and difficult without a car. But it could be possible to do right within our urban centres with smarter design.  
 
 <h2 style="color: green;">Mission</h2>
 
