@@ -1,13 +1,15 @@
 ---
 permalink: /about/
-title: "About FreeTheFoot"
+title: "FreeTheFoot Mission, Visiong & Values"
 layout: single
-author_profile: true
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_image: "/assets/images/5.Sunset.png"
 gallery3:
-  - image_path: /assets/images/
+  - image_path: /assets/images/workoutequipment.png
     alt: "Services-Image 1"
-  - image_path: /assets/images/
+  - image_path: /assets/images/ServicesFST.png
     alt: "Services-Image 2"
 ---
 
