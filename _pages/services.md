@@ -21,7 +21,7 @@ These are just some of the services that we provide:
     <li>Programming designed to enhance service delivery and organizational efficiency</li>
     <li>Knowledge translation, transfer, and implementation - from resesarch to findings to programming</li>
     <li>Opportunities for public, private, and academic interdisciplinary collaboration</li>
-      <li>Movement and environmental mentorship</li> 
+    <li>Movement and environmental mentorship</li> 
     <li>Consultation and validation on equipment innovation</li>
 </ul>
 

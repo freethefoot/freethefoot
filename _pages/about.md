@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "FreeTheFoot Mission, Visiong & Values"
+title: "Our Mission, Vision & Values"
 layout: single
 classes: wide
+author: true
 header:
   overlay_color: "#000"
   overlay_image: "/assets/images/5.Sunset.png"
