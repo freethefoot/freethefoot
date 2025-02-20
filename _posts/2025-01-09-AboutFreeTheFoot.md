@@ -14,7 +14,7 @@ FreeTheFoot was born from building connections with people who are passionate ab
 
 These were just some of the questions that sparked FreeTheFoot back in 2018. 
 
-On a basic level, FreeTheFoot started in 2018 when FreeTheFoot's found was introduced to minimalist (or "zero drop") footwear. Suddenly, regular running shoes seemed to make concentration, balance, and movement harder... and many other people on social media and in her new movement circle felt the same way. 
+On a basic level, FreeTheFoot started when its founder was introduced to minimalist (or "zero drop") footwear. Suddenly, regular running shoes seemed to make concentration, balance, and movement harder... and many other people on social media and in her new movement circle felt the same way. 
 
 This journey unfolded further in the StretchToWin classroom for Fascial Stretch Therapy Level 1, where many like-minded professionals gathered to learn new skills. Here was evidence that some passionate personal trainers, physiotherapists, osteopaths, massage therapists, rehabilitation specialists, doctors - and the list goes on - were all having conversations similar to the questions above. Here was a group of people upskilling their professional practice to try to do something about it. 
 
