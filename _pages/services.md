@@ -9,7 +9,6 @@ gallery3:
     alt: "Services-Image 1"
   - image_path: /assets/images/ServicesFST.png
     alt: "Services-Image 2"
-
 ---
 
 These are just some of the services that we provide:  

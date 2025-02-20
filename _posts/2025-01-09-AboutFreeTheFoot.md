@@ -4,7 +4,7 @@ categories: About
 permalink: /AboutFreeTheFoot/
 classes: wide
 header:
-  overlay_image: /assets/images/Whatisfreethefoot.png
+  overlay_image: /assets/images/ECT-Route1.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 

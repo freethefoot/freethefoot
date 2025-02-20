@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Our Team"
+    url: /team/
   - title: "Services"
     url: /services/
   - title: "Blogs"

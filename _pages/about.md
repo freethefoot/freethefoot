@@ -6,8 +6,8 @@ author: true
 classes: wide
 author: true
 header:
-  overlay_color: "#000"
-  overlay_image: "/assets/images/5.Sunset.png"
+  overlay_image: /assets/images/5.Sunset.png
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 gallery3:
   - image_path: /assets/images/workoutequipment.png
     alt: "Services-Image 1"
