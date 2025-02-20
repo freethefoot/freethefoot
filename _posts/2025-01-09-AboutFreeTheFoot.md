@@ -1,5 +1,5 @@
 ---
-title:  "What is FreeTheFoot?"
+title:  "The Origin Story of FreeTheFoot"
 categories: About
 permalink: /AboutFreeTheFoot/
 classes: wide
