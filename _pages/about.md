@@ -2,6 +2,7 @@
 permalink: /about/
 title: "Our Mission, Vision & Values"
 layout: single
+author: true
 classes: wide
 author: true
 header:
@@ -14,7 +15,7 @@ gallery3:
     alt: "Services-Image 2"
 ---
 
-<h2 style="color: green;">Mission</h2>
+<h2 style="color:rgb(102, 136, 114);">Mission</h2>
 
 Our mission is to:
 <ul>
@@ -30,14 +31,14 @@ We will achieve our mission by:
   <li>Advocating, with like-minded partners, for systemic change.</li>
 </ul>
 
-<h2 style="color: green;">Vision</h2>
+<h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
 <p>Our vision is a physically, mentally, and emotionally resilient Canadian population. We believe that our improved processes and programs will get Canadians part-way there.</p> 
 
 <p>The other part is advocating for design changes of our cities. Enabling access to nature within our city centres would make restorative landscapes accessible for all Canadians.</p> 
 
 
-<h2 style="color: green;">Values</h2>
+<h2 style="color: rgb(102, 136, 114);">Values</h2>
 
 <h4 style="color: #cdaf68;">Interconnectedness</h4>
 <p>FreeTheFoot advocates for the blending of movement and nature for a happier body, community, and life.</p>
