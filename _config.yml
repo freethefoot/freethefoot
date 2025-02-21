@@ -119,16 +119,16 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:freethefoot@gmail.com"
+      url: "mailto:freethefoot.hamilton@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/freethefoot/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/people/Free-The-Foot/100084975505309/"
-    - label: "Buy Us A Coffee"
-      icon: "fas fa-coffee"
-      url: 'https://buymeacoffee.com/wpenvllzih'
+    - #label: "Buy Us A Coffee"
+      #icon: "fas fa-coffee"
+      #url: 'https://buymeacoffee.com/wpenvllzih'
 
 # Site Footer
 footer:
