@@ -3,28 +3,41 @@ permalink: /services/
 title: "Services"
 layout: single
 classes: wide
-author_profile: true
-gallery3:
-  - image_path: /assets/images/2.Services-Ball.png
-    alt: "Services-Image 1"
-  - image_path: /assets/images/ServicesFST.png
-    alt: "Services-Image 2"
+feature_row:
+  - image_path: /assets/images/Projects.png
+    alt: "Projects"
+    title: "Projects"
+    excerpt: "Leading projects to promote health and nature accessibility across different communities."
+  - image_path: /assets/images/Programming.png
+    alt: "Programming"
+    title: "Programming"
+    excerpt: "Programming for enhanced service delivery and organizational efficiency."
+  - image_path: /assets/images/Implementation.png
+    alt: "Implementation"
+    title: "Implementation"
+    excerpt: "Helping organizations with knowledge translation, transfer, and implementation."
+feature_row2:
+  - image_path: /assets/images/Research.png
+    alt: "Research & Innovation"
+    title: "Research & Innovation"
+    excerpt: "Leveraging AI and digital technologies for innovative research methodologies. "
+  - image_path: /assets/images/Evaluation.png
+    alt: "Evaluation"
+    title: "Evaluation"
+    excerpt: "Leading evaluation exercises and reporting on workplace status, program efficacy, trend forecasting and more."
+  - image_path: /assets/images/Partnership.png
+    alt: "Partnership Opportunities"
+    title: "Partnership Opportunities"
+    excerpt: "Mentorship and consultation, and opportunities for public, private, and academic collaboration."
 ---
 
-These are just some of the services that we provide:  
+For more information about our services, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
 
-<ul>
-    <li>Projects to promote health and nature accessibility across different communities</li>
-    <li>Innovative health and wellness research methodologies, leveraging AI and digital technologies</li>
-    <li>Studies aiming to improve employer care, treatment protocols, team cohesion, and work culture</li>
-    <li>Programming designed to enhance service delivery and organizational efficiency</li>
-    <li>Knowledge translation, transfer, and implementation - from resesarch to findings to programming</li>
-    <li>Opportunities for public, private, and academic interdisciplinary collaboration</li>
-    <li>Movement and environmental mentorship</li> 
-    <li>Consultation and validation on equipment innovation</li>
-</ul>
+{% include feature_row %}
 
-For more information please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
+{% include feature_row id="feature_row2" %}
+
+
 
 
 {% include gallery id="gallery3" class="full" %}

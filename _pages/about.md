@@ -2,61 +2,54 @@
 permalink: /about/
 title: "Our Mission, Vision & Values"
 layout: single
-author: true
 classes: wide
-author: true
 header:
   overlay_image: /assets/images/5.Sunset.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-gallery3:
-  - image_path: /assets/images/workoutequipment.png
-    alt: "Services-Image 1"
-  - image_path: /assets/images/ServicesFST.png
-    alt: "Services-Image 2"
+  overlay_filter: 0000 # same as adding an opacity of 0.5 to a black background
+feature_row:
+  - image_path: /assets/images/Interconnection.png
+    alt: "Interconnection"
+    title: "Interconnection"
+    excerpt: "The blending of movement and nature, and partnerships, are necessary for a happier body, community, and life."
+  - image_path: /assets/images/Movement.png
+    alt: "Movement"
+    title: "Movement"
+    excerpt: "After years of observing clients and trends, we aim to address many (reversible) health and wellness issues, beginning with movement patterns. "
+  - image_path: /assets/images/2.Information.png
+    alt: "Nature"
+    title: "Nature"
+    excerpt: "Access to clean air, clean water, and immersion in nature is not only restorative but a human right. We advocate to liberate nature in our urban centres."
+feature_row2:
+  - image_path: /assets/images/EqualAccess.png
+    alt: "Equal Access"
+    title: "Equal Access"
+    excerpt: "Our every-day environment should have as many benefits as cottage country, so that these benefits are accessible - regardless of socioeconomic status."
+  - image_path: /assets/images/3.FST-group.png
+    alt: "Education"
+    title: "Education"
+    excerpt: "Together, as health, environment, and design professionals, we have decades of experience - and we are constantly working to know and share more."
+  - image_path: /assets/images/AntiNegligence.png
+    alt: "Anti-Negligence"
+    title: "Anti-Negligence"
+    excerpt: "We work to shed light on institutions that remain in the dark about the ways that Canadian bodies, communities, and lives could be made better."
 ---
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
-
-Our mission is to:
 <ul>
-  <li>Improve health, wellness, and happiness of all Canadians.</li>
-  <li>Improve access to restorative nature, regardless of individual socioeconomic status.</li>
-</ul>
-
-We will achieve our mission by: 
-<ul>
-  <li>Developing targeted processes and programs to address health and wellness issues.</li>
-  <li>Educating Canadian business and policy-makers to promote anti-negligence of employees and people.</li>
-  <li>Liberating the natural landscape in urban centres.</li>
-  <li>Advocating, with like-minded partners, for systemic change.</li>
+  <li>To work towards greater health, wellness, and happiness of all Canadians.</li>
+  <li>To achieve equal access to restorative natural landscapes.</li>
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
-<p>Our vision is a physically, mentally, and emotionally resilient Canadian population. We believe that our improved processes and programs will get Canadians part-way there.</p> 
+<p>Our vision is a physically, mentally, and emotionally resilient Canadian population. Everyone will have ease of access to Canada's clean, abundant natural landscapes, as they are so closely linked to our well-being.</p>
 
-<p>The other part is advocating for design changes of our cities. Enabling access to nature within our city centres would make restorative landscapes accessible for all Canadians.</p> 
-
+<p>We believe in doing our part in educating Canadian businesses and policy-makers, partnering with like-minded groups, and advocating for health promotion and the liberation of natural landscapes in urban centres. In doing so, we support systemic change.</p> 
 
 <h2 style="color: rgb(102, 136, 114);">Values</h2>
 
-<h4 style="color: #cdaf68;">Interconnectedness</h4>
-<p>FreeTheFoot advocates for the blending of movement and nature for a happier body, community, and life.</p>
+{% include feature_row %}
 
-<h4 style="color: #cdaf68;">Education</h4>
-<p>We are certified personal trainers, gymnastic coaches, fascial stretch therapists, environmentalists and more. Our advanced education in anatomy, nutrition, movement, and environmental advocacy began early on in our lives and has only grown with time. Together, we have decades of experience as students - and educators.</p> 
+{% include feature_row id="feature_row2" %}
 
-<h4 style="color: #cdaf68;">Movement</h4>
-After years of observing clients and trends, we aim to address many (reversible) health and wellness issues. Their causes are often embedded in the fabric of Canadian institutions and social structures. Ergonomic assessments help to an extent, but we take it further. 
-
-<h4 style="color: #cdaf68;">Nature</h4>
-In addition, we observe that to access clean air, clean fresh water, and immersion in nature - all of which are as important to our mission as movement - people must exit city centres. However, this is costly, difficult without a car, and sometimes near impossible. So an alternative is making it possible right within our urban centres - if only they were more smarterly designed.  
-
-<h4 style="color: #cdaf68;">Anti-Negligence</h4>
-By developing processes and programs, as well as educating policy makers and workplace owners, we are promoting a culture of anti-negligence to reverse harmful effects of remaining in the dark about the importance of how health, wellness, and happiness is achieved. 
-
-<h4 style="color: #cdaf68;">Equal Access</h4>
-Our every-day environment should have as many benefits as cottage country so that these benefits are accessible regardless of socioeconomic status. This is a more equitable and less negligent system than what we currently have. 
-
-{% include gallery id="gallery3" class="full" %}
 
