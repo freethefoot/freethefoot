@@ -10,11 +10,11 @@ feature_row:
   - image_path: /assets/images/Interconnection.png
     alt: "Interconnection"
     title: "Interconnection"
-    excerpt: "The blending of movement and nature, and partnerships, are necessary for a happier body, community, and life."
+    excerpt: "The recentering of movement and nature in city centres is necessary for a happier body, community, and life."
   - image_path: /assets/images/Movement.png
     alt: "Movement"
     title: "Movement"
-    excerpt: "After years of observing clients and trends, we aim to address many (reversible) health and wellness issues, beginning with movement patterns. "
+    excerpt: "After years of observing clients and trends, we aim to address many (reversible) health and wellness issues, beginning with movement patterns."
   - image_path: /assets/images/2.Information.png
     alt: "Nature"
     title: "Nature"
@@ -23,7 +23,7 @@ feature_row2:
   - image_path: /assets/images/EqualAccess.png
     alt: "Equal Access"
     title: "Equal Access"
-    excerpt: "Our every-day environment should have as many benefits as cottage country, so that these benefits are accessible - regardless of socioeconomic status."
+    excerpt: "Our every-day environment should be as abundant with nature as cottage country, which increases accessibility."
   - image_path: /assets/images/3.FST-group.png
     alt: "Education"
     title: "Education"
