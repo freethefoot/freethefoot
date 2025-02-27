@@ -38,6 +38,7 @@ feature_row2:
 <ul>
   <li>To work towards greater health, wellness, and happiness of all Canadians.</li>
   <li>To achieve equal access to restorative natural landscapes.</li>
+  <li>To enable the pleasurable travel on foot between towns, cities, and along natural wonders</li> 
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>

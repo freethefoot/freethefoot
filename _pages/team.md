@@ -17,7 +17,7 @@ header:
 
 <p>And along the way I met incredibly passionate professionals. And heard stories of individuals working towards the same goal: seeking body and community improvements for their clients, their families, and themselves.</p> 
 
-But despite ever greater knowledge and technological advancements, society has still fallen behind. And its well known that our lives are being negatively impacted.</p>   
+<p>But despite ever greater knowledge and technological advancements, society has still fallen behind. And its well known that our lives are being negatively impacted.</p>   
 
 <p>That's why I started FreeTheFoot - to fill these gaps with the knowledge and resources we have today.</p> 
 
