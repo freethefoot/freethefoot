@@ -36,7 +36,7 @@ feature_row2:
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
 <ul>
-  <li>To enable travel on foot between towns, cities, and along natural wonders</li> 
+  <li>To enable travel on foot between towns, cities, and along natural wonders.</li> 
   <li>To achieve equal access to restorative natural landscapes in urban settings.</li>
   <li>To work towards greater health, wellness, and happiness of all Canadians.</li>
 </ul>
