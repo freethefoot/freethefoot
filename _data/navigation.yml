@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Our Team"
     url: /team/
-  - title: "Services"
-    url: /services/
+  - title: "Projects"
+    url: /projects/
   - title: "Blogs"
     url: /blogs/
   - title: "Videos"
