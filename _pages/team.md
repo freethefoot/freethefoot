@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-<img src="{{ site.baseurl }}/assets/images/Renata.png" style="width: 50%; height: auto;" alt="Renata">
+<img src="{{ site.baseurl }}/assets/images/Renata.png" style="width: 75%; height: auto;" alt="Renata">
 
 <b>Renata Ona, Founder</b>
 
