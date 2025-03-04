@@ -19,44 +19,45 @@ feature_row2:
     alt: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
     title: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
     excerpt: ""
+  - image_path: /assets/images/projects-Depave.png
+    alt: "GREEN VENTURE: Depave Hamilton, Good Shepherd's Centre"
+    title: "GREEN VENTURE: Depave Hamilton, Good Shepherd Venture Centre"
+    excerpt: ""
   - image_path: /assets/images/projects-Galiano.png
     alt: "MUDGIRLS: Building an 800sq ft Cob House, Galiano Island"
     title: "MUDGIRLS: Building an 800sq ft Cob House, Galiano Island"
     excerpt: ""
 feature_row3:
   - image_path: /assets/images/Thru-hiking-clothing4.png
-    alt: "Newfoundland Thru-Hike"
-    title: "FREETHEFOOT: 8 Day Hike of The East Coast Trail"
+    alt: "125km in 8 Days: On Foot, Newfoundland's East Coast Trail"
+    title: "125km in 8 Days: On Foot, Newfoundland's East Coast Trail"
     excerpt: ""
   - image_path: /assets/images/projects-Kempt.png
-    alt: "FREETHEFOOT: 50km in 1 Day: Walking from Ottawa to Kemptville"
-    title: "FREETHEFOOT: 50km in 1 Day: Walking from Ottawa to Kemptville"
+    alt: "FREETHEFOOT: 50km in 1 Day: On Foot from Ottawa to Kemptville"
+    title: "50km in 1 Day: On Foot from Ottawa to Kemptville"
     excerpt: ""
   - image_path: /assets/images/project-Yukon.png
-    alt: "FREETHEFOOT: 4 Days of Camping Across the Yukon"
-    title: "FREETHEFOOT: 4 Days of Camping Across the Yukon"
+    alt: "563km in 4 Days: By Car from Yukon to Alaska"
+    title: "563km in 4 Days: By Car from Yukon to Alaska"
     excerpt: ""    
   - image_path: /assets/images/project-Nicaragua.png
-    alt: "FREETHEFOOT: 12 Days of Nicaragua on Foot & by Public Transit"
-    title: "FREETHEFOOT: 12 Days of Nicaragua on Foot & by Public Transit"
-    excerpt: ""
-  - image_path: /assets/images/project-Pacific.png
-    alt: "FREETHEFOOT: A 14 Day Drive from San Diego to British Columbia"
-    title: "FREETHEFOOT: A 14 Day Drive from San Diego to British Columbia"
+    alt: "202km in 12 days: On Foot and by Public Transit from Nicaragua to Costa Rica"
+    title: "202km in 12 days: On Foot and by Public Transit from Nicaragua to Costa Rica"
     excerpt: ""
   - image_path: /assets/images/projects-NZ.png
-    alt: "FreeTheFoot: 14 Day Drive of North to South Island, New Zealand"
-    title: "FREETHEFOOT: 14 Day Drive of North to South Island, New Zealand"
+    alt: "2400km in 14 Days: By Car from North to South Island, New Zealand"
+    title: "2400km in 14 Days: By Car from North to South Island, New Zealand"
     excerpt: ""
 ---
 
-Since 2018, FreeTheFoot has explored systems in Ontario, Canada, and all over the world, participating in many amazing initiatives. 
+Since 2018, FreeTheFoot has explored systems in Ontario, Canada, and all over the world, participating in many amazing initiatives.
 
+For more information about our projects and/or collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
+
+<h2>Partnerships & Community Involvement</h2>
 {% include feature_row id="feature_row2" type="left" %}
+<h2>FreeTheFoot Travel Assessments - in and across Urban Centres</h2>
 {% include feature_row id="feature_row3" type="left" %}
-
-For more information about our projects or collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
-
 
 {% include gallery id="gallery3" class="full" %}
 
