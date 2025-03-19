@@ -36,16 +36,17 @@ feature_row2:
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
 <ul>
-  <li>To enable travel on foot between urban centres and along natural wonders.</li> 
-  <li>To achieve equal access to restorative natural landscapes in urban centres.</li>
-  <li>To promote creative movement opportunities in urban centres.</li>
+  <li>To enable pleasurable travel on foot within cities and between cities.</li>
+  <li>To enable equitable access to natural landscapes and wonders along the way.</li> 
+  <li>To maximize restorative natural landscapes in urban centres.</li>
+  <li>To create more (creative) movement opportunities in urban centres.</li>
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
 <p>Our vision is greater health, wellness, and happiness of all Canadians. We believe that more movement and access to nature is key to physical, mental, and emotional resilience. Therefore, everyone should have easy access to clean and abdundant nature, as it is so closely linked to our well-being.</p>
 
-<p>We believe in doing our part in educating Canadian businesses and policy-makers, partnering with like-minded groups, advocating for health promotion, and liberating natural landscapes in urban centres. In doing so, we support systemic change.</p> 
+<p>We believe in doing our part in educating Canadian businesses and policy-makers, partnering with like-minded groups, advocating for health promotion, and the liberation of nature. In doing so, we support systemic change.</p> 
 
 <h2 style="color: rgb(102, 136, 114);">Values</h2>
 

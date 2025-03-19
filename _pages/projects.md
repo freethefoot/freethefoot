@@ -68,9 +68,9 @@ feature_row5:
     #excerpt: ""
 ---
 
-Since 2018, FreeTheFoot has explored systems in Ontario, across Canada, and all over the world, participating in many amazing initiatives.
+Since 2018, FreeTheFoot has explored systems and participated in many amazing initiatives - in Ontario, across Canada, and all over the world.
 
-This knowledge has informed FreeTheFoot's mission and vision - about what is possible and what is needed for enabling movement and nature in Canada's urban centres.
+This knowledge has informed what is needed to achieve FreeTheFoot's mission and vision.
 
 FreeTheFoot is available to consult on urban projects featuring alternative transit systems. 
 
@@ -81,7 +81,7 @@ For collaboration opportunities, please contact us by <a href="mailto:freethefoo
 <h1>FreeTheFoot Travel Assessments</h1>
 <h2>FreeTheFoot in Ontario</h2>
 {% include feature_row id="feature_row3" type="left" %}
-<h2>FreeTheFoot in Other Provinces, Canada</h2>
+<h2>FreeTheFoot in Other Canadian Provinces</h2>
 {% include feature_row id="feature_row4" type="left" %}
 <h2>FreeTheFoot Internationally</h2>
 {% include feature_row id="feature_row5" type="left" %}
