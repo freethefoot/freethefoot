@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/2.Information.png
     alt: "Nature"
     title: "Nature"
-    excerpt: "Access to clean air, clean water, and immersion in nature is not only restorative but a human right. We advocate to liberate nature in our urban centres."
+    excerpt: "Access to clean air, clean water, and immersion in nature makes walking feasible."
 ---
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
@@ -30,7 +30,7 @@ feature_row:
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
-<p>FreeTheFoot's vision is greater health, wellness, and happiness of Hamiltonians. Accessible transportation via movement and through nature is key to physical, mental, and emotional well-being/</p>
+<p>FreeTheFoot's vision is greater health, wellness, and happiness of Hamiltonians. Accessible transportation via movement and through nature is key to physical, mental, and emotional well-being.</p>
 
 <p>We believe in doing our part in educating, partnering with like-minded groups, and advocating for our cause. In doing so, we support systemic change.</p> 
 
