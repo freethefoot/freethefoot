@@ -19,19 +19,6 @@ feature_row:
     alt: "Nature"
     title: "Nature"
     excerpt: "Access to clean air, clean water, and immersion in nature is not only restorative but a human right. We advocate to liberate nature in our urban centres."
-feature_row2:
-  - image_path: /assets/images/EqualAccess.png
-    alt: "Equal Access"
-    title: "Equal Access"
-    excerpt: "Our every-day environment should be as abundant with nature as cottage country, which increases accessibility."
-  - image_path: /assets/images/3.FST-group.png
-    alt: "Education"
-    title: "Education"
-    excerpt: "Together, as health, environment, and design professionals, we have decades of experience - and we are constantly working to know and share more."
-  - image_path: /assets/images/AntiNegligence.png
-    alt: "Anti-Negligence"
-    title: "Anti-Negligence"
-    excerpt: "We work to shed light on institutions that remain in the dark about the ways that Canadian bodies, communities, and lives could be made better."
 ---
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
