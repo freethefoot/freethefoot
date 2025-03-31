@@ -36,10 +36,9 @@ feature_row2:
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
 <ul>
-  <li>To enable pleasurable travel on foot within cities and between cities.</li>
-  <li>To enable equitable access to natural landscapes and wonders along the way.</li> 
-  <li>To maximize restorative natural landscapes in urban centres.</li>
-  <li>To create more (creative) movement opportunities in urban centres.</li>
+  <li>To improve travel on foot within Hamilton - in its urban centres and between amalgamated areas.</li>
+  <li>To establish more creative movement opportunities in Hamilton.</li>
+  <li>To unite day-to-day activities with Hamilton's abdundant natural landscapes.</li>
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
