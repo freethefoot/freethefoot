@@ -1,5 +1,5 @@
 ---
-title: "Thru-Hiking: Assembling Meals & Snacks"
+title: "10 Tips for Packing Thru-Hike Food"
 categories: Thru-Hiking
 permalink: /FoodAssembly/
 classes: wide
@@ -8,23 +8,25 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
+Thru-hike food planning is like a beloved fulltime job. I investigate what and how much to eat. I research recipes and experiences of other thru-hikers. I whip out my food scale and use an online nutrition calculator. And my oven is dehydrating for several weeks. 
+
 Here are 10 things I keep in mind when assembling meals and snacks for thru-hiking. And I'm working to make dehydrated meals and trailmix available on my <a href="https://www.etsy.com/shop/FreeTheFoot?ref=search_shop_redirect"> Etsy Store</a>! 
 
 <h2 style="color: green;">1. Importance of Research & Planning</h2>
 
-Food planning is like a beloved fulltime job. I investigate what and how much to eat. I research recipes and experiences of other thru-hikers. I whip out my food scale and use an online nutrition calculator. And my oven is dehydrating for several weeks. 
+When I first started out, this is what I *thought* 3 weeks of food should look like. Each day is laid out from top (starting with oatmeal) to bottom (ending in electrolytes). 
 
-The photo below describes what I *thought* 3 weeks of food should look like when I started out. Each day is laid out from top (starting with oatmeal) to bottom (ending in electrolytes). But this was a LOT for 3 weeks! 
-
-My overpacking was caused by a few things: I didn't eat as much packed food because I stopped at some restaurants along the way and I overestimated how much of each dry ingredient I should bring to make a single meal. But better to have too much than too little! 
+But I overpacked! Because I stopped at some restaurants along the way and I didn't know how much dry ingredients expand with rehydration. So now I keep those in mind and test before I depart.
 
 <img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-prep.png" style="width: 50%; height: auto;" alt="Prep">
 
 <h2 style="color: green;">2. Different Hike Distances</h2>
 
-It's different, preparing food for a long vs short hike. For example, hiking a fraction of the PCT, say Oregan (8 weeks minimum) needs more food than hiking Newfoundland's entire ECT (4 weeks maximium). No matter which trail it is, it's reasonable (weightwise) to carry about 4-5 days worth of food in my pack.
+No matter which trail it is, it's reasonable (weightwise) to carry about 4-5 days worth of food in my pack. The rest of my food can be shipped to spots along the trail. 
 
-The rest of my food can be shipped to spots along the trail. But planning this out is the most challenging logistical piece of a thru-hike: Will there be an outpost every 4-5 days? When should I complete my food prep so it all ships in time? What happens if my package is lost? How much will postage cost? Will I pack enough food? Are there grocery stores not far from the trail? For many trails, these questions have been answered by previous hikers and lists of shipping destinations are often available online with a little digging! 
+But planning this is challenging: Will there be an outpost every 4-5 days? When should I complete my food prep so it all ships in time? What happens if my package is lost? How much will postage cost? Will I pack enough food? Are there grocery stores not far from the trail? 
+
+For many trails, these questions have been answered by previous hikers and lists of shipping destinations are often available online with a little digging! 
 
 <img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-post.png" style="width: 30%; height: auto;" alt="Post Office">
 
@@ -103,7 +105,5 @@ For most of the year I live and work indoors. So living on a trail for 3-8 weeks
 <img src="{{ site.baseurl }}/assets/images/Thru-hiking-food-after.png" style="width: 30%; height: auto;" alt="After">
 
 <h2 style="color: green;">10. Finally, The Importance of Treats</h2>
-
-<p>Someone once wrote that sure, survival is important. But humans will wage wars for luxury. And it's true. Some of the world's longest and greatest struggles and worst crimes were for tea, spices, fabrics, dyes, and more things that we don't actually need to survive, but that make life more pleasurable. As much as we'd like to think we're above such behaviour... humans love luxuries.</p> 
 
 <p>Out on the trail, simple pleasures go a long way. I appreciate tea to start and end my day. And I add a scoop of skim or whole milk powder to oatmeal or pasta to make it creamier. I'm generous with adding chocolate to trailmix. And I throw in many Clif bars so I don't feel like I have to ration them. These luxuries are an amazing gift. One of the wonders of hiking is that after days, I truly appreciate the little things and it puts a whole lot into perspective.</p>

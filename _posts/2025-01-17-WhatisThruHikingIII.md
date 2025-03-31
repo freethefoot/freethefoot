@@ -1,5 +1,5 @@
 ---
-title: "Thru-Hiking IV: Food Complex"
+title: "Part III: Food"
 categories: Thru-Hiking
 permalink: /FoodComplex/
 classes: wide
@@ -8,13 +8,9 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 ---
 
-The Food Complex is everything needed for eating and storing snacks and full meals. 
+The Food Complex is everything you need for eating and storing snacks and full meals. 
 
-I've written a separate blog post <a href="/_posts/2025-01-21-FoodAssembly.md">Thru-Hiking: Assembling Meals & Snacks</a> on 10 things I keep in mind when preparing my food for a hike. 
-
-But back to the Food Complex: 
-
-<h2 style="color: green;">List of Equipment</h2>
+<h3>List of Equipment</h3>
 
 For a 14 day thru-hike in the summertime, here was my list of equipment: 
 <ol>
@@ -35,7 +31,7 @@ There were many more things I could have included, but in the end (and perhaps u
 <img src="{{ site.baseurl }}/assets/images/Thru-hiking-stove.png" style="width: 30%; height: auto;" alt="Stove">
 <img src="{{ site.baseurl }}/assets/images/Thru-hiking-waterrefill.png" style="width: 30%; height: auto;" alt="Water Canteen">
 
-<h2 style="color: green;">Cooking on the Trail</h2>
+<h3>Cooking on the Trail</h3>
 
 <ol>
     <li>Find a spot secure from brush and wind (sometimes the <b>foil</b> came in handy as a wind protector).</li>
@@ -48,7 +44,7 @@ There were many more things I could have included, but in the end (and perhaps u
     <li>Deposit any garbage into the <b>large freezer bag</b>.</li>
 </ol>
 
-<h2 style="color: green;">A Minor Horror Story</h2>
+<h3>A Minor Horror Story</h3>
 
 One time, at the start of that thru-hike, I lost my water filter and my lighter. Not only was I disappointed by my environmental impact, but losing these two things was pretty catastrophic for my little food complex! 
 
