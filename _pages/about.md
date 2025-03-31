@@ -43,9 +43,9 @@ feature_row2:
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
-<p>Our vision is greater health, wellness, and happiness of all Canadians. We believe that more movement and access to nature is key to physical, mental, and emotional resilience. Therefore, everyone should have easy access to clean and abdundant nature, as it is so closely linked to our well-being.</p>
+<p>FreeTheFoot's vision is greater health, wellness, and happiness of Hamiltonians. Accessible transportation via movement and through nature is key to physical, mental, and emotional well-being/</p>
 
-<p>We believe in doing our part in educating Canadian businesses and policy-makers, partnering with like-minded groups, advocating for health promotion, and the liberation of nature. In doing so, we support systemic change.</p> 
+<p>We believe in doing our part in educating, partnering with like-minded groups, and advocating for our cause. In doing so, we support systemic change.</p> 
 
 <h2 style="color: rgb(102, 136, 114);">Values</h2>
 
