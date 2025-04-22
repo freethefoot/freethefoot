@@ -11,10 +11,6 @@ feature_row2:
     alt: "Cycling Mobility Lab"
     title: "CITY OF HAMILTON: Cycling Mobility Lab"
     excerpt: "Providing community feedback on Hamilton's cycling paths."
-  - image_path: /assets/images/projects-ONBC.png
-    alt: "ONBC Natural Homebuilders Conference (2019, 2023)"
-    title: "ONBC Natural Homebuilders Conference (2019, 2023)"
-    excerpt: "Participating in the process of changing Ontario's building makeup to include healthier materials."
   - image_path: /assets/images/projects-Hamilton.png
     alt: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
     title: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
@@ -27,9 +23,13 @@ feature_row2:
     alt: "MUDGIRLS: Building an 800sq ft Cob House, Galiano Island"
     title: "MUDGIRLS: Building an 800sq ft Cob House, Galiano Island"
     excerpt: "Implemented natural homebuilding principles - to code - on Canada's West Coast."
+  - image_path: /assets/images/projects-ONBC.png
+    alt: "ONBC Natural Homebuilders Conference (2019, 2023)"
+    title: "ONBC Natural Homebuilders Conference (2019, 2023)"
+    excerpt: "Participating in the process of changing Ontario's building makeup to include healthier materials."
 feature_row3:
   - image_path: /assets/images/projects-Burlington.png
-    alt: "21km in 5 Hours: On Foot, Hamilton to Burlington"
+    alt: "21km in 5 Hours: On Foot from Hamilton to Burlington"
     title: "21km in 5 Hours: On Foot, Hamilton to Burlington"
     excerpt: ""
   - image_path: /assets/images/projects-Kempt.png
@@ -46,7 +46,7 @@ feature_row4:
     title: "563km in 4 Days: By Car from Yukon to Alaska"
     excerpt: ""  
   - image_path: /assets/images/Thru-hiking-clothing4.png
-    alt: "125km in 8 Days: On Foot, Newfoundland's East Coast Trail"
+    alt: "125km in 8 Days: On Foot on Newfoundland's East Coast Trail"
     title: "125km in 8 Days: On Foot, Newfoundland's East Coast Trail"
     excerpt: ""
 feature_row5:
@@ -68,17 +68,14 @@ feature_row5:
     #excerpt: ""
 ---
 
-Since 2018, FreeTheFoot has explored systems and participated in many amazing initiatives - in Ontario, across Canada, and all over the world.
-
-This knowledge has informed what is needed to achieve FreeTheFoot's mission and vision.
-
-FreeTheFoot is available to consult on urban projects featuring alternative transit systems. 
+Since 2018, FreeTheFoot has participated in many amazing initiatives. These experiences have informed FreeTheFoot's mission and vision.
 
 For collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
 
-<h2>Partnerships & Community Involvement</h2>
+<h2>Community Involvement</h2>
 {% include feature_row id="feature_row2" type="left" %}
 <h1>FreeTheFoot Travel Assessments</h1>
+<p>Please <a href="mailto:freethefoot.hamilton@gmail.com">email</a> us for more information on travel assessments.
 <h2>FreeTheFoot in Ontario</h2>
 {% include feature_row id="feature_row3" type="left" %}
 <h2>FreeTheFoot in Other Canadian Provinces</h2>

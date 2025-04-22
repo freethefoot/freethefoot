@@ -11,9 +11,9 @@ header:
 
 <h2>Renata | Founder, PMP & MA</h2> 
 
-<p>Renata founded FreeTheFoot in 2018. Her passion for spreading the good word about "urban hiking" unlocked the vision for FreeTheFoot.</p>
-<p>Today, Renata is the Executive Producer of FreeTheFoot's documentaries and video content, which is gradually expanding. She is at the head of FreeTheFoot's partnership-building, research direction, and programming material development.</p>
-<p>Renata has over 10 years in project management. Her knowledge of wellness and movement is often blended with her very active role in producing a variety of Hamilton's arts and culture initiatives.<p>    
+<p>Renata founded FreeTheFoot in 2018. Her passion for spreading the good word about "urban hiking" and addressing systemic issues unlocked the vision for FreeTheFoot.</p>
+<p>Today, Renata is the head of FreeTheFoot's partnership-building, research direction, and programming. And she is the Executive Producer of FreeTheFoot's gradually expanding digital content.</p>
+<p>Renata has over 10 years of experience in project management. And she takes an active role in producing and participating Hamilton's various arts and culture initiatives.<p>    
 
 
 
