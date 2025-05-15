@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "FreeTheFoot"
+title                    : "A community organization to improve walking across Hamilton and surrounding areas"
 title_separator          : ""
 subtitle                 : ""
 name                     : "FreeTheFoot"
@@ -27,7 +27,7 @@ baseurl                  : # "/minimal-mistakes"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/1.HiEveryone.png"
 logo                     : "/assets/logos/apple-touch-icon-120x120.png"
-masthead_title           : "A community organization to improve walking across Hamilton and surrounding areas."
+masthead_title           : "FreeTheFoot"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
