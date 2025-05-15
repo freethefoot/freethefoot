@@ -6,15 +6,20 @@ classes: wide
 header:
   overlay_image: /assets/images/Thru-hiking.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+feature_row1:
+  - image_path: /assets/images/FTFlogo and d20.png
+    alt: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
+    title: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
+    excerpt: "We're launching a role-playing game podcast! Tune in to adventurers traversing 'Hamiltoon', while grappling with major challenges that we all think about, but rarely see played out... Until now."
+  - image_path: /assets/images/projects-Hamilton.png
+    alt: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
+    title: "CABLE14 SPECIAL FEATURE: Free The Foot: Walking Across Hamilton"
+    excerpt: "A 30 minute documentary about traversing Hamilton using the Rail Trail & Bruce Trail. Find the episode on the FreeTheFoot YouTube channel, linked in our 'Videos' above."
 feature_row2:
   - image_path: /assets/images/projects-Cycling.png
     alt: "Cycling Mobility Lab"
     title: "CITY OF HAMILTON: Cycling Mobility Lab"
     excerpt: "Providing community feedback on Hamilton's cycling paths."
-  - image_path: /assets/images/projects-Hamilton.png
-    alt: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
-    title: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
-    excerpt: "A 30 minute documentary about traversing Hamilton using the Rail Trail & Bruce Trail."
   - image_path: /assets/images/projects-Depave.png
     alt: "GREEN VENTURE: Depave Hamilton, Good Shepherd's Centre"
     title: "GREEN VENTURE: Depave Hamilton, Good Shepherd Venture Centre"
@@ -72,6 +77,8 @@ Since 2018, FreeTheFoot has participated in many amazing initiatives. These expe
 
 For collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
 
+<h2>Digital Content</h2>
+{% include feature_row id="feature_row1" type="left" %}
 <h2>Community Involvement</h2>
 {% include feature_row id="feature_row2" type="left" %}
 <h1>FreeTheFoot Travel Assessments</h1>

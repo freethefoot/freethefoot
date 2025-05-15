@@ -1,5 +1,5 @@
 ---
-title: "What will Pilates do for me?"
+title: "Let's talk about fitness culture..."
 categories: About
 permalink: /Pilates/
 classes: wide
