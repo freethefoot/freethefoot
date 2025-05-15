@@ -27,7 +27,7 @@ baseurl                  : # "/minimal-mistakes"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/1.HiEveryone.png"
 logo                     : "/assets/logos/apple-touch-icon-120x120.png"
-masthead_title           : "FreeTheFoot"
+masthead_title           : "A community organization to improve walking across Hamilton and surrounding areas."
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
