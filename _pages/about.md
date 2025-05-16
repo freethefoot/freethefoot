@@ -19,7 +19,7 @@ feature_row:
     alt: "Nature"
     title: "Nature"
     excerpt: "Access to clean air, clean water, and immersion in nature makes walking feasible."
----
+---   
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
 <ul>
@@ -38,4 +38,12 @@ feature_row:
 
 {% include feature_row %}
 
+<h2 style="color: rgb(102, 136, 114);">Our Team</h2>
 
+<img src="{{ site.baseurl }}/assets/images/Renata.png" style="width: 50%; height: auto;" alt="Renata">
+
+<h3>Renata | Founder, PMP & MA</h3>
+
+<p>Renata founded FreeTheFoot in 2018. Her passion for spreading the good word about "urban hiking" and addressing systemic issues unlocked the vision for FreeTheFoot.</p>
+<blockquote>Today, Renata is the head of FreeTheFoot's program delivery, partnership-building, and research direction. And she is the Executive Producer of FreeTheFoot's gradually expanding digital content."</blockquote>
+<p>Renata has over 10 years of experience in project management. And she takes an active role in producing and participating Hamilton's various arts and culture initiatives.<p> 

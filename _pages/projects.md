@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/Thru-hiking.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
 feature_row1:
-  - image_path: /assets/images/FTFlogo and d20.png
+  - image_path: /assets/images/ComingSoon.png
     alt: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
     title: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
     excerpt: "We're launching a role-playing game podcast! Tune in to adventurers traversing 'Hamiltoon', while grappling with major challenges that we all think about, but rarely see played out... Until now."
@@ -76,6 +76,7 @@ feature_row5:
 Since 2018, FreeTheFoot has participated in many amazing initiatives. These experiences have informed FreeTheFoot's mission and vision.
 
 For collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
+
 
 <h2>Digital Content</h2>
 {% include feature_row id="feature_row1" type="left" %}

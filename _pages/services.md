@@ -1,44 +1,32 @@
 ---
 permalink: /services/
-title: "Services"
+title: "Drop-In Classes coming June 2025!"
 layout: single
 classes: wide
-feature_row:
-  - image_path: /assets/images/Projects.png
-    alt: "Projects"
-    title: "Projects"
-    excerpt: "Leading projects to promote health and nature accessibility across different communities."
-  - image_path: /assets/images/Programming.png
-    alt: "Programming"
-    title: "Programming"
-    excerpt: "Programming for enhanced service delivery and organizational efficiency."
-  - image_path: /assets/images/Implementation.png
-    alt: "Implementation"
-    title: "Implementation"
-    excerpt: "Helping organizations with knowledge translation, transfer, and implementation."
-feature_row2:
-  - image_path: /assets/images/Research.png
-    alt: "Research & Innovation"
-    title: "Research & Innovation"
-    excerpt: "Leveraging AI and digital technologies for innovative research methodologies. "
-  - image_path: /assets/images/Evaluation.png
-    alt: "Evaluation"
-    title: "Evaluation"
-    excerpt: "Leading evaluation exercises and reporting on workplace status, program efficacy, trend forecasting and more."
-  - image_path: /assets/images/Partnership.png
-    alt: "Partnership Opportunities"
-    title: "Partnership Opportunities"
-    excerpt: "Mentorship and consultation, and opportunities for public, private, and academic collaboration."
+author_profile: true
+gallery:
+  - url: https://simpli.events/c/8c74fe
+    image_path: /assets/images/FeelGoodMornings.png
+    alt: "Feel Good Morning - rainbow on yellow background"
+    title: "Feel Good Mornings @ The Staircase"
+  - url: https://simpli.events/c/cc0c4e
+    image_path: /assets/images/MobilityAndStretch.png
+    alt: "Mobility and Stretch - rainbow muscle on yellow background"
+    title: "Mobility and Stretch Mornings @ The Staircase"
+
 ---
 
-For more information about our services, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
+{% include gallery caption="$18 each, fees included. The Staircase - Bright Room, 27 Dundurn Street N" %}
 
-{% include feature_row %}
+<h2 style="color: rgb(102, 136, 114);">Movement needs to be creative, accessible, and fun also!</h2>  
 
-{% include feature_row id="feature_row2" %}
+The Movement and Play Series @ The Staircase fills the wide gap between fitness and creative institutions. 
+
+Many gyms and studios offer movement opportunities that can be fun. And many creative studios offer playful opportunities that may include movement. The program is an <b style="color: rgb(102, 136, 114);">intentional blending of the two</b>.
+
+<blockquote>Classes are led by Renata Ona, a local Hamilton creative who is certified in numerous foundational movement schools (including adult gymnastics, assisted stretching, pilates, and personal training). Renata's classes are informed by the inclusivity training she received during her study of social and physical determinants of health  at Queen's University. Students in her classes will additionally benefit from her creative training in improvisation, singing, dance, swordfighting, and more.</blockquote> 
+
+All adults are welcome and encouraged to join us for inclusive fun in the mornings to start the day!* 
 
 
-
-
-{% include gallery id="gallery3" class="full" %}
-
+<p>*The Staircase is only accessible by stairs. We are looking to expand programming somewhere with an elevator. And yes, we know it's early... but it IS possible. And there's parking.</p> 
