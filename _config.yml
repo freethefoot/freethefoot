@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "A community organization to improve walking across Hamilton and surrounding areas"
+title                    : "A community organization to improve commuting across Hamilton and surrounding areas on foot"
 title_separator          : ""
 subtitle                 : ""
 name                     : "FreeTheFoot"
