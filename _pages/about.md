@@ -10,29 +10,35 @@ feature_row:
   - image_path: /assets/images/Interconnection.png
     alt: "Interconnection"
     title: "Interconnection"
-    excerpt: "The recentering of movement and nature in city centres is necessary for a happier body, community, and life."
+    excerpt: "Interconnected active transportation is necessary for efficient mobility of people."
   - image_path: /assets/images/Movement.png
     alt: "Movement"
     title: "Movement"
-    excerpt: "After years of observing clients and trends, we aim to address many (reversible) health and wellness issues, beginning with movement patterns."
+    excerpt: "Movement is the root of health and wellness, and active transportation should therefore be paramount."
   - image_path: /assets/images/2.Information.png
     alt: "Nature"
     title: "Nature"
-    excerpt: "Access to clean air, clean water, and immersion in nature makes walking feasible."
+    excerpt: "Access to clean air and clean water is integral; therefore any disappearing natural resources in Hamilton should be protected."
 ---   
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
+<p>Even if global oil and gas shortages weren't rocking our world, Hamilton's active transportation infrastructure needs to be tailored for people - not cars. FreeTheFoot's mission is to:<p> 
 <ul>
-  <li>To improve travel on foot within Hamilton - in its urban centres and between amalgamated areas.</li>
-  <li>To establish more creative movement opportunities in Hamilton.</li>
-  <li>To unite day-to-day activities with Hamilton's abdundant natural landscapes.</li>
+  <li>Ensure that pedestrian needs are prioritized.</li> 
+  <li>Expand walkability in the urban centre.</li> 
+  <li>Connect amalgamated areas to urban centre with active transportation networks</li>
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
-<p>FreeTheFoot's vision is greater health, wellness, and happiness of Hamiltonians. Accessible transportation via movement and through nature is key to physical, mental, and emotional well-being.</p>
+<p>In the face of rising living costs, climate change, and demand for oil and gas, improvements in active transportation are not just desirable, but becoming more and more necessary every day to keep our city not just accessible, but liveable. </p>
 
-<p>We believe in doing our part in educating, partnering with like-minded groups, and advocating for our cause. In doing so, we support systemic change.</p> 
+<p>FreeTheFoot envisions:</p>
+<ul>
+  <li>A robust, walkable environment, with walkable interconnections that make sense.</li> 
+  <li>Greater access to nature.</li> 
+  <li>More creative movement opportunities.</li>
+</ul>
 
 <h2 style="color: rgb(102, 136, 114);">Values</h2>
 
