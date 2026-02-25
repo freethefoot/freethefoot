@@ -11,14 +11,14 @@ feature_row:
     alt: "Interconnection"
     title: "Interconnection"
     excerpt: "Interconnected active transportation is necessary for efficient mobility of people."
-  - image_path: /assets/images/Movement.png
-    alt: "Movement"
-    title: "Movement"
-    excerpt: "Movement is the root of health and wellness, and active transportation should therefore be paramount."
   - image_path: /assets/images/2.Information.png
     alt: "Nature"
     title: "Nature"
     excerpt: "Access to clean air and clean water is integral; therefore any disappearing natural resources in Hamilton should be protected."
+  - image_path: /assets/images/Movement.png
+    alt: "Movement"
+    title: "Movement"
+    excerpt: "Movement is the root of health and wellness, and active transportation should therefore be paramount."
 ---   
 
 <h2 style="color:rgb(102, 136, 114);">Mission</h2>
@@ -26,12 +26,12 @@ feature_row:
 <ul>
   <li>Ensure that pedestrian needs are prioritized.</li> 
   <li>Expand walkability in the urban centre.</li> 
-  <li>Connect amalgamated areas to urban centre with active transportation networks</li>
+  <li>Connect amalgamated areas to urban centre with active transportation networks.</li>
 </ul>
 
 <h2 style="color: rgb(102, 136, 114);">Vision</h2>
 
-<p>In the face of rising living costs, climate change, and demand for oil and gas, improvements in active transportation are not just desirable, but becoming more and more necessary every day to keep our city not just accessible, but liveable. </p>
+<p>In the face of rising living costs, climate change, and demand for oil and gas, improvements in active transportation are not just desirable, but becoming more and more necessary every day to keep our city accessible and liveable. </p>
 
 <p>FreeTheFoot envisions:</p>
 <ul>
