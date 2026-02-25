@@ -11,12 +11,12 @@ feature_row1:
     alt: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
     title: "PODCAST COMING SOON: FreeTheFoot: Post-Apocalypse"
     excerpt: "We're launching a role-playing game podcast! Tune in to adventurers traversing 'Hamiltoon', while grappling with major challenges that we all think about, but rarely see played out... Until now."
-  - image_path: /assets/images/projects-Hamilton.png
+  - image_path: /assets/images/2.Information.png
     alt: "CABLE14 & FREETHEFOOT: Walking Across Hamilton"
     title: "CABLE14 SPECIAL FEATURE: Free The Foot: Walking Across Hamilton"
     excerpt: "A 30 minute documentary about traversing Hamilton using the Rail Trail & Bruce Trail. Find the episode on the FreeTheFoot YouTube channel, linked in our 'Videos' above."
 feature_row2:
-  - image_path: /assets/images/.png
+  - image_path: /assets/images/projects-Hamilton.png
     alt: "TOURISM HAMILTON: Waterfall Destination Masterplan"
     title: "TOURISM HAMILTON: Waterfall Destination Masterplan"
     excerpt: "Consulted on the MT Planners and City of Hamilton's Waterfall Destination Masterplan final plan and recommendations."
