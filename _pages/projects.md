@@ -16,6 +16,10 @@ feature_row1:
     title: "CABLE14 SPECIAL FEATURE: Free The Foot: Walking Across Hamilton"
     excerpt: "A 30 minute documentary about traversing Hamilton using the Rail Trail & Bruce Trail. Find the episode on the FreeTheFoot YouTube channel, linked in our 'Videos' above."
 feature_row2:
+  - image_path: /assets/images/.png
+    alt: "TOURISM HAMILTON: Waterfall Destination Masterplan"
+    title: "TOURISM HAMILTON: Waterfall Destination Masterplan"
+    excerpt: "Consulted on the MT Planners and City of Hamilton's Waterfall Destination Masterplan final plan and recommendations."
   - image_path: /assets/images/projects-Cycling.png
     alt: "Cycling Mobility Lab"
     title: "CITY OF HAMILTON: Cycling Mobility Lab"
@@ -73,7 +77,7 @@ feature_row5:
     #excerpt: ""
 ---
 
-Since 2018, FreeTheFoot has participated in many amazing initiatives. These experiences have informed FreeTheFoot's mission and vision.
+Since 2018, FreeTheFoot has participated in many initiatives that have informed our mission and vision.
 
 For collaboration opportunities, please contact us by <a href="mailto:freethefoot.hamilton@gmail.com">email</a>. 
 
